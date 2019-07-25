@@ -1,0 +1,38 @@
+{
+	"skins": {
+		"eui.Button": "resource/eui_skins/ButtonSkin.exml",
+		"eui.CheckBox": "resource/eui_skins/CheckBoxSkin.exml",
+		"eui.HScrollBar": "resource/eui_skins/HScrollBarSkin.exml",
+		"eui.HSlider": "resource/eui_skins/HSliderSkin.exml",
+		"eui.Panel": "resource/eui_skins/PanelSkin.exml",
+		"eui.TextInput": "resource/eui_skins/TextInputSkin.exml",
+		"eui.ProgressBar": "resource/eui_skins/ProgressBarSkin.exml",
+		"eui.RadioButton": "resource/eui_skins/RadioButtonSkin.exml",
+		"eui.Scroller": "resource/eui_skins/ScrollerSkin.exml",
+		"eui.ToggleSwitch": "resource/eui_skins/ToggleSwitchSkin.exml",
+		"eui.VScrollBar": "resource/eui_skins/VScrollBarSkin.exml",
+		"eui.VSlider": "resource/eui_skins/VSliderSkin.exml",
+		"eui.ItemRenderer": "resource/eui_skins/ItemRendererSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skins/system/ButtonSkin.exml",
+		"resource/skins/game/ChallengeFailSkin.exml",
+		"resource/skins/game/GameMainSkin.exml",
+		"resource/skins/game/SceneSkin.exml",
+		"resource/skins/game/ScoreSkin.exml",
+		"resource/skins/system/CheckBoxSkin.exml",
+		"resource/skins/system/HScrollBarSkin.exml",
+		"resource/skins/system/HSliderSkin.exml",
+		"resource/skins/system/ItemRendererSkin.exml",
+		"resource/skins/system/PanelSkin.exml",
+		"resource/skins/system/ProgressBarSkin.exml",
+		"resource/skins/system/RadioButtonSkin.exml",
+		"resource/skins/system/ScrollerSkin.exml",
+		"resource/skins/system/TextInputSkin.exml",
+		"resource/skins/system/ToggleSwitchSkin.exml",
+		"resource/skins/system/VScrollBarSkin.exml",
+		"resource/skins/system/VSliderSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
