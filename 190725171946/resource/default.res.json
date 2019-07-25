@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "egret_icon_png,description_json,background_mp3,bigplane_bomb_mp3,bullet_mp3,aircraft_png,aircraftBullet_png,aircraft_small_png,bg_jpg,bgGrey_png,boss_png,bossBullet_png,boss_blood1_png,boss_blood2_png,buff_blood_png,enemyBullet_png,hp_fnt,hp_png,restart_png,resultBg_png,score_fnt,score_png,score_title_png,start_png,title_png,game_over_png,button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,thumb_pb_png,track_pb_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,track_sb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,boom_png,boom_json,buff_boom_png",
+			"keys": "egret_icon_png,description_json,background_mp3,bigplane_bomb_mp3,bullet_mp3,aircraft_png,aircraftBullet_png,aircraft_small_png,bg_jpg,bgGrey_png,boss_png,bossBullet_png,boss_blood1_png,boss_blood2_png,buff_blood_png,enemyBullet_png,hp_fnt,hp_png,restart_png,resultBg_png,score_fnt,score_png,score_title_png,start_png,title_png,game_over_png,button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,thumb_pb_png,track_pb_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,track_sb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,boom_png,boom_json,buff_boom_png,full_hp_png",
 			"name": "preload"
 		}
 	],
@@ -265,6 +265,11 @@
 			"name": "buff_boom_png",
 			"type": "image",
 			"url": "assets/image/buff_boom.png"
+		},
+		{
+			"name": "full_hp_png",
+			"type": "image",
+			"url": "assets/image/full_hp.png"
 		}
 	]
 }
